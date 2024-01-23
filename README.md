@@ -46,6 +46,9 @@ Explore the CPU design, execute instructions, and observe the simulation results
 
 In the cloned folder, you'll find detailed information about the manual simulation process, including the fetching and execution of instructions in the pdf file.
 
+## Contributing
+Contributions are welcome! If you have ideas for improvements or find any issues, please create a new issue or submit a pull request.
+
 ## Acknowledgments
 
 We would like to express our heartfelt appreciation to Mr. Dhiraj Shrestha for his inspiring guidance and continuous encouragement throughout the development of our computer design project. His support has been pivotal in helping us effectively apply our knowledge of a ”Basic Computer.” Our thanks also extend to all those who provided us with the opportunity to complete this project.
