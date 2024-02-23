@@ -5,6 +5,8 @@
 
 Welcome to the AD-18 CPU Design Project! This project showcases the design and implementation of a sophisticated 18-bit Central Processing Unit (CPU) named AD-18. The CPU is meticulously crafted with a memory configuration of 8KB*18, featuring 8192 words—each 18 bits long.
 
+![Logisim Representation of AD-18](https://res.cloudinary.com/dpx53grhp/image/upload/v1708662901/glop9crfxiji7e6b1myr.png)
+
 ## Key Features
 
 - **18-bit Architecture:** The AD-18 CPU is designed with an 18-bit architecture, providing a balance between performance and efficiency.
